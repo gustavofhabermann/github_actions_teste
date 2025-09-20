@@ -28,3 +28,4 @@ jobs:
       - name: Rodar testes com PyTest
         run: 
           PYTHONPATH=src python -m pytest tests/
+#
